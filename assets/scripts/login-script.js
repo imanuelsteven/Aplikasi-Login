@@ -3,7 +3,8 @@
  * Gunakan fungsi goToHome() untuk menampilkan halaman home
  * Gunakan fungsi goToLogin() untuk menampilkan halaman login
  * Gunakan fungsi showPopUp() untuk menampilkan pop up error
- */
+ hai saya steven
+ */ 
 
 const loginFormElement = document.querySelector('#loginForm');
 const inputEmailElement = document.querySelector('#inputEmail');
